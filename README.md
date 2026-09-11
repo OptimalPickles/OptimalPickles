@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @VincentErwin
-- 👀 I’m interested in coding practical programs for an everyday use
-- 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me 
+# Vincent
 
-<!---
-OptimalPickles/OptimalPickles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Turning coursework into things that actually run.
+
+## About
+Sophomore studying Industrial Engineering (Honors Program) at Georgia Tech,
+concentrating in AI & Operations Research. Interested in consulting, data
+analytics, and tech-adjacent roles, with a focus on problems where
+optimization and applied AI intersect.
+
+## What I'm building
+- **Chess Player Comparison App** — React + Chess.com API, benchmarking
+  players across rating trends, win rate, and time-control performance,
+  including a custom performance metric that goes beyond raw Elo
+
+## Skills
+**Languages/Tools:** Python, JavaScript, React, Streamlit
+**Currently learning:** SQL
+
+## Outside of code
+Competitive chess player, rated 2100 bullet on Chess.com.
